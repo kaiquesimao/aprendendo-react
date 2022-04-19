@@ -1,7 +1,5 @@
-var x = 0;
+valor = 20
 
-while (x < 10){
-  document.write("<br> O valor do x é: " + x);
-
-  x++;
+for (let a = 0; a < valor; a++){
+  document.write("<br> o valor do a é: " + a)
 }
